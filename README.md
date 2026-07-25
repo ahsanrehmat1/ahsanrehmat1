@@ -2,9 +2,9 @@
 
 **Digital Operations & Creative Technology Specialist**
 
-[![Ahsan Rehmat creative and digital portfolio](https://raw.githubusercontent.com/ahsanrehmat1/portfolio/main/public/og.png)](https://ahsan-rehmat-portfolio.ahsanrehmat193.chatgpt.site)
+[![Ahsan Rehmat creative and digital portfolio](https://raw.githubusercontent.com/ahsanrehmat1/portfolio/main/public/og.png)](https://ahsanrehmat1.github.io)
 
-[View live portfolio](https://ahsan-rehmat-portfolio.ahsanrehmat193.chatgpt.site)
+[View live portfolio](https://ahsanrehmat1.github.io)
 | [Explore PulsePlan](https://github.com/ahsanrehmat1/PulsePlan)
 | [Portfolio source](https://github.com/ahsanrehmat1/portfolio)
 

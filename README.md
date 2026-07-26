@@ -41,6 +41,12 @@ PulsePlan creates daily and weekly workouts from a user's goals, experience,
 equipment, schedule, workout style, and movement preferences. The current build
 includes:
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ahsanrehmat1/PulsePlan/main/docs/images/pulseplan-dashboard.png" alt="PulsePlan personalized dashboard" width="260" />
+  <img src="https://raw.githubusercontent.com/ahsanrehmat1/PulsePlan/main/docs/images/pulseplan-active-workout.png" alt="PulsePlan set-by-set workout" width="260" />
+  <img src="https://raw.githubusercontent.com/ahsanrehmat1/PulsePlan/main/docs/images/pulseplan-progress.png" alt="PulsePlan progress insights" width="260" />
+</p>
+
 - Email/password and Google authentication
 - Offline-first Firestore synchronization and cross-device restoration
 - Personalized onboarding and deterministic workout generation

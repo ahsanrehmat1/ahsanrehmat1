@@ -1,17 +1,17 @@
 # Ahsan Rehmat
 
-**Digital Operations & Creative Technology Specialist**
+**Video Editor · Client Manager · Content Operations**
 
 [![Ahsan Rehmat creative and digital portfolio](https://raw.githubusercontent.com/ahsanrehmat1/portfolio/main/public/og.png)](https://ahsanrehmat1.github.io)
 
-[View live portfolio](https://ahsanrehmat1.github.io)
+[View my portfolio](https://ahsanrehmat1.github.io)
+| [Video editing & client feedback](https://ahsanrehmat1.github.io/video-editing.html)
 | [Explore PulsePlan](https://github.com/ahsanrehmat1/PulsePlan)
 | [Portfolio source](https://github.com/ahsanrehmat1/portfolio)
 
-I help founders, agencies, and content teams turn ideas into finished work. My
-strongest lanes are video editing, client management, digital-content
-operations, and team coordination, supported by practical WordPress and Android
-product experience.
+I edit videos, manage client delivery, and coordinate content production for
+creators and small teams. I also build WordPress websites and practical Android
+products with Kotlin and Jetpack Compose.
 
 ## What I bring
 
@@ -36,9 +36,9 @@ product experience.
 
 ### [PulsePlan](https://github.com/ahsanrehmat1/PulsePlan)
 
-An Android workout-planning MVP built with Kotlin and Jetpack Compose. It
-creates clear daily and weekly plans from a user's goals, experience, equipment,
-schedule, workout style, and movement preferences.
+I built this Android workout-planning MVP with Kotlin and Jetpack Compose. It
+creates clear daily and weekly plans from a user's goals, experience,
+equipment, schedule, workout style, and movement preferences.
 
 The current build includes personalized onboarding, focused workout sessions,
 progress history, reminders, recovery-aware streaks, exercise guides, and
@@ -49,13 +49,13 @@ Firebase setup remains pending.
 
 ## Other work
 
-- **Accounting business website:** built a responsive WordPress site for a
+- **Accounting business website:** I built a responsive WordPress site for a
   Dubai accounting and tax-services company, including setup, pages, forms,
   visual customization, and launch preparation.
-- **Multi-channel content operations:** co-managed four digital news channels
+- **Multi-channel content operations:** I co-managed four digital news channels
   and coordinated a 10-person remote team producing up to eight videos per day
-  across the portfolio. Client identities remain confidential.
-- **Cars with a Story:** developed the content positioning and production
+  across the channels.
+- **Cars with a Story:** I developed the content positioning and production
   workflow for an independent automotive storytelling channel.
 
 ## Let's work together
